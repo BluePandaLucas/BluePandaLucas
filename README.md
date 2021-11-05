@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/BluePandaLucas/header.png "Header")]
+[![Header](https://raw.githubusercontent.com/BluePandaLucas/BluePandaLucas/header.png "Header")]
 
 
 <!--
