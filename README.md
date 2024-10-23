@@ -1,13 +1,6 @@
 ![Header](https://raw.githubusercontent.com/BluePandaLucas/BluePandaLucas/main/header.png "Header")
 
 ### <div align="center">I'm Lucas, working on development since 2019 👀</div>  
-  
-
-- 🔭 I'm currently manage systems for SparksNetwork, an upcoming minecraft network.  
-  
-
-- 🌱 I’m currently learning Linux and TS  
-  
 
 <br/>  
 
